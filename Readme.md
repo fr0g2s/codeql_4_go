@@ -1,1 +1,1 @@
-codeql for go test
+go source for codeql
